@@ -15,7 +15,7 @@ public class Constants {
 			+ "Many people with some abilities tried to fight them but failed. "
 			+ "Can you save the people from the wrath of these super \"villains\"?\n";
 
-	public static final String CHOOSE = "\nChoose an option:\n\t1: Start your journey\n\t2: Continue your journey\n\t"
+	public static final String CHOOSE = "\nChoose an option:\n\t1: Start your journey\n\t2: Continue your journey from last saved point.\n\t"
 			+ "3: Quit\n";
 
 	public static final String CHOOSE_GAME_START = "\nChoose an option:\n\t1: Create character\n\t2: Play\n\t3: "
@@ -49,7 +49,7 @@ public class Constants {
 	public static final String CHOOSE_MAP = "\nChoose Map:\n\t1: Mighty Mountains\n\t2: Dangerous Desert\n\t"
 			+ "3: Simple Sea\n\t4: Corrupt City\n\t5: Go back\n";
 
-	public static final String BONUS = "\n\tPress 1 to open\n\tAnything else to go back\n";
+	public static final String BONUS = "\n\tInput 1 to open\n\tAnything else to go back\n";
 
 	public static final String NO_BONUS = "\nSorry! No bonus this time.\n";
 
@@ -60,7 +60,7 @@ public class Constants {
 			"As you move up the ladder, the difficulty of questions increases."
 			+ "The more matches you win, the more experience points you get which increases your strength.";
 
-	public static final String FIGHT_CHOOSE = "\n\tPress 1 to attack\n\tAny other key to accept defeat and go back.\n";
+	public static final String FIGHT_CHOOSE = "\n\tInput 1 to attack\n\tAny other key to accept defeat and go back.\n";
 
 	public static final String PUNCH = "\nYou gave an amazing blow to the enemy\n";
 

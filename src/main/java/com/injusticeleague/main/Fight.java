@@ -30,7 +30,7 @@ class Fight {
 		}
 	};
 
-	Fight(ScannerWrapper wrapperr) {
+	Fight(ScannerWrapper wrapper) {
 		this.wrapper = wrapper;
 	}
 
